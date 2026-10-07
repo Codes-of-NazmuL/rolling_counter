@@ -1,0 +1,19 @@
+name: rolling_counter
+description: A fluid, vertical odometer and slot-machine style rolling digit counter widget for Flutter with zero dependencies.
+version: 1.0.0
+homepage: https://github.com/Codes-of-NazmuL/rolling_counter
+repository: https://github.com/Codes-of-NazmuL/rolling_counter
+issue_tracker: https://github.com/Codes-of-NazmuL/rolling_counter/issues
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.10.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
